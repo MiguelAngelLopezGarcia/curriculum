@@ -101,6 +101,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [vkunal1996's Solution (Easy)](https://github.com/vkunal1996/odin-google) - [View in Browser](https://vkunal1996.github.io/odin-google/)
 * [Crumbhustler's Solution (Easy)](https://github.com/crumbhustler/google-homepage) - [View in Browser](https://crumbhustler.github.io/google-homepage/)
 * [GraceSchwar's Solution (Easy)](https://github.com/GraceSchwar/google-homepage2) - [View in Browser](https://graceschwar.github.io/google-homepage2/)
+* [Miguel Ángel's Solution (Easy)](https://github.com/MiguelAngelLopezGarcia/google-homepage) - [View in Browser](https://miguelangellopezgarcia.github.io/google-homepage/)
 * [Chris Ewen's Solution (Easy)](https://github.com/chrisstophere/google-homepage/) - [View in Browser](https://www.ewentech.com/google-homepage/)
 * [David Nguyen's Solution (Easy)](https://github.com/dhnguy/googlepage) - [View in Browser](https://dhnguy.github.io/googlepage/)
 * [wenxchen's Solution (Easy)](https://github.com/wenxchen/google-homepage) - [View in Browser](https://wenxchen.github.io/google-homepage/)
